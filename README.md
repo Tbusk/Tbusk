@@ -5,11 +5,12 @@
 - 📫 How to reach me ... email!
 
 My Tech Stack:
-- Java Front-End (JavaFX, SWING) + Back-End with Maven
+- Java Front-End (JavaFX, SWING) and Back-End using OOP and various other concepts
 - GitHub / Git Bash
 - React w JavaScript
 - HTML, CSS, FXML
 - Figma Prototyping
+- Diagram and model creation with LucidChart
 
 <!---
 Tbusk/Tbusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
