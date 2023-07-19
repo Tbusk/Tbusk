@@ -8,7 +8,8 @@ My Tech Stack:
 - Java Front-End (JavaFX, SWING) and Back-End using OOP and various other concepts
 - GitHub / Git Bash
 - React w JavaScript
-- HTML, CSS, FXML
+- HTML, CSS, XML, FXML
+- SQL (with MySQL)
 - Figma Prototyping
 - Diagram and model creation with LucidChart
 
