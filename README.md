@@ -9,7 +9,7 @@ My Tech Stack:
 - GitHub / Git Bash
 - React w JavaScript
 - HTML, CSS, XML, FXML
-- SQL (with MySQL)
+- SQL (with MySQL, Apache Derby, SQLite3)
 - Figma Prototyping
 - Diagram and model creation with LucidChart
 
