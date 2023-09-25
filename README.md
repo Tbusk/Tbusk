@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tbusk
 - 👀 I’m interested in Software Engineering and development.
-- 🌱 I’m currently learning Software Engineering at Ferris State University with an emphasis on Java. 
-- 💞️ I’m looking to collaborate on ... any projects open to novices contributing!
+- 🌱 I’m currently learning Software Engineering at Ferris State University with an emphasis on Java and web tech. 
+- 💞️ I’m looking to collaborate on ... any projects open to contributing!
 - 📫 How to reach me ... email!
 
 My Tech Stack:
