@@ -9,6 +9,7 @@ My Tech Stack:
 - GitHub / Git Bash
 - JavaScript, jQuery, AJAX
 - HTML, CSS, XML, FXML, JSON
+- API creation using JAX-RS & Spring
 - SQL (with MySQL, Apache Derby, SQLite3, MariaDB)
 - Figma Prototyping
 - Diagram and model creation with LucidChart
