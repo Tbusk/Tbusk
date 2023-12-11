@@ -7,10 +7,10 @@
 My Tech Stack:
 - Java Front-End (JavaFX, SWING) and Back-End using OOP and various other concepts
 - GitHub / Git Bash
-- JavaScript, jQuery, AJAX
+- Typescript, JavaScript, jQuery, AJAX
 - HTML, CSS, XML, FXML, JSON
 - API creation using JAX-RS & Spring
-- SQL (with MySQL, Apache Derby, SQLite3, MariaDB)
+- SQL (with MySQL, Apache Derby, SQLite3, MariaDB, MSSQL)
 - Figma Prototyping
 - Diagram and model creation with LucidChart
 
