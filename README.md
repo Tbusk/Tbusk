@@ -5,7 +5,7 @@
 - 📫 How to reach me ... email!
 
 My Tech Stack:
-- Java Front-End (JavaFX, SWING) and Back-End using OOP and various other concepts
+- Java (JavaFX, JAX-RS, Spring Boot, Spring Security, SWING)
 - GitHub / Git Bash
 - Typescript, JavaScript, jQuery, AJAX
 - HTML, CSS, XML, FXML, JSON
