@@ -6,6 +6,7 @@
 
 My Tech Stack:
 - Java (JavaFX, JAX-RS, Spring Boot, Spring Security, SWING)
+- React (TypeScript, JavaScript)
 - GitHub / Git Bash
 - Typescript, JavaScript, jQuery, AJAX
 - HTML, CSS, XML, FXML, JSON
