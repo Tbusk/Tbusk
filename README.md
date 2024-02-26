@@ -1,6 +1,6 @@
 <h1>Hi, I'm Trevor Busk</h1>
 
-I'm a software engineering Student at Ferris State University.
+I'm a software engineering student at Ferris State University.
 
 [![Linkedin: Trevor Busk](https://img.shields.io/badge/-Trevor%20Busk-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
 [![HackerRank: Trevor Busk](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/buskt/)](https://www.hackerrank.com/profile/buskt/)
