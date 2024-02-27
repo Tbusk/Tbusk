@@ -1,14 +1,14 @@
 <h1>Hi, I'm Trevor Busk</h1>
 
+[![Linkedin: Trevor Busk](https://img.shields.io/badge/-Trevor%20Busk-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
+[![HackerRank: Trevor Busk](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/buskt/)](https://www.hackerrank.com/profile/buskt/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/tbusk/)](https://leetcode.com/tbusk/)
+
 **About Me**
 
 - 💼 Software Engineering Intern at <a href="https://kcad.ferris.edu/">KCAD</a>
 - 📖 Student at Ferris State University
 - ❤️ Developing software experiences users enjoy
-
-[![Linkedin: Trevor Busk](https://img.shields.io/badge/-Trevor%20Busk-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
-[![HackerRank: Trevor Busk](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/buskt/)](https://www.hackerrank.com/profile/buskt/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/tbusk/)](https://leetcode.com/tbusk/)
 
 ![tbusk's Stats](https://github-readme-stats.vercel.app/api?username=tbusk&theme=buefy&show_icons=true&hide_border=false&count_private=true)
 
