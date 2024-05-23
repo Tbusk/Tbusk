@@ -12,32 +12,12 @@
 
 ![tbusk's Stats](https://github-readme-stats.vercel.app/api?username=tbusk&theme=buefy&show_icons=true&hide_border=false&count_private=true)
 
-<h3>Top Repositories</h3>
-
-<a href="https://github.com/tbusk/admin-example-front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tbusk&repo=admin-example-front&theme=buefy" />
-</a>
-<a href="https://github.com/tbusk/admin-example-back">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tbusk&repo=admin-example-back&theme=buefy" />
-</a>
-<a href="https://github.com/tbusk/LibraryApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tbusk&repo=LibraryApp&theme=buefy" />
-</a>
-<a href="https://github.com/tbusk/Nutrition-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tbusk&repo=Nutrition-Tracker&theme=buefy" />
-</a>
-<a href="https://github.com/tbusk/Mazerunners">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tbusk&repo=Mazerunners&theme=buefy" />
-</a>
-<a href="https://github.com/tbusk/Ecommerce-WebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tbusk&repo=Ecommerce-WebApp&theme=buefy" />
-</a>
-
 <h2>My Tech Stack</h2>
 
 <h3>Main Languages</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,7 +29,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
