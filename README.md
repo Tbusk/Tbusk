@@ -6,7 +6,7 @@
 
 **About Me**
 
-- 💼 Software Engineering Intern at <a href="https://kcad.ferris.edu/">KCAD</a>
+- 💼 Software Engineer at <a href="https://www.myadsusa.com">AD Solutions</a>
 - 📖 Student at Ferris State University
 - ❤️ Developing software experiences users enjoy
 
