@@ -80,4 +80,4 @@
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Vala-A56DE2?logo=google-cloud&logoColor=red)
+![Hetzner](https://img.shields.io/badge/Hetzner?logo=hetzner&logoColor=red)
