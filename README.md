@@ -7,7 +7,7 @@
 **About Me**
 
 - 💼 Software Engineer at <a href="https://www.myadsusa.com">AD Solutions</a>
-- 📖 Final Year Student at Ferris State University
+- 📖 Final Year Student at Ferris State University in Digital Media Software Engineering
 - ❤️ Developing software experiences users enjoy
 
 ![tbusk's Stats](https://github-readme-stats.vercel.app/api?username=tbusk&theme=default&show_icons=true&hide_border=true&count_private=true)
