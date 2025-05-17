@@ -61,7 +61,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)]
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 ![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
