@@ -1,6 +1,6 @@
 <h1>Hi, I'm Trevor Busk</h1>
 
-[![Linkedin](https://img.shields.io/badge/-Trevor%20Busk-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
 
 <!---[![HackerRank: Trevor Busk](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/buskt/)](https://www.hackerrank.com/profile/buskt/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/tbusk/)](https://leetcode.com/tbusk/)
