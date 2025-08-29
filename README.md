@@ -12,8 +12,6 @@
 - 📖 Final Year Student at Ferris State University in Digital Media Software Engineering
 - ❤️ Developing software experiences users enjoy
 
-![tbusk's Stats](https://github-readme-stats.vercel.app/api?username=tbusk&theme=default&show_icons=true&hide_border=true&count_private=true)
-
 <h2>My Tech Stack</h2>
 
 <h3>Main Languages</h3>
