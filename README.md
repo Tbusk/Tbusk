@@ -10,7 +10,7 @@
 
 - 💼 Software Engineer at <a href="https://www.myadsusa.com">AD Solutions</a>
 - 📖 Final Year Student at Ferris State University in Digital Media Software Engineering
-- ❤️ Developing software experiences users enjoy
+- ❤️ Supporter and advocate of open-source software.
 
 <h2>My Tech Stack</h2>
 
