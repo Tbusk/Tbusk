@@ -4,11 +4,11 @@
 
 #### About Me
 
-Hi, I'm Trevor, a full-stack software engineer who thrives on taking complex business problems and transforming them into elegant, production-ready applications. I don't just write code; I build, own, and scale systems that deliver tangible business value, grounded in a deep understanding of the operational needs behind the software.
+Hi, I'm Trevor, a full-stack software engineer who thrives on transforming complex business problems into elegant, production-ready applications. I don't just write code; I build, own, and scale systems that deliver tangible business value, grounded in a deep understanding of the operational needs that drive the technology.
 
-Beyond my professional work, I am a passionate advocate for open-source software. I believe in the power of community-driven development to create robust, accessible technology, and I am an active contributor to several projects. My goal is to build software that is not only functional and efficient but also a pleasure to use.
+Beyond my professional work, I am a passionate advocate for open-source software and an active contributor to several projects. I believe in the power of community-driven development to create robust, accessible technology that is not only functional but also a pleasure to use.
 
-Ultimately, my goal is to build software that makes a positive impact. I'm eager to connect with other passionate developers, entrepreneurs, and creators to share ideas and explore collaborations. Whether it's contributing to an ambitious open-source project, joining a mission-driven company, or simply networking with fellow innovators, I'm always ready for the next challenge.
+I'm always seeking the next challenge and am eager to connect with other passionate developers and creators. Whether it's contributing to an ambitious open-source project or joining a mission-driven company, I'm ready to collaborate on building software that makes a positive impact.
 
 ## Featured Projects
 
