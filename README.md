@@ -23,6 +23,8 @@ answers sourced directly from a pre-defined company knowledge base.
 
 ## My Tech Stack
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbusk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Backend
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&link=https://www.java.com/)](https://www.java.com/)
