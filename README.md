@@ -2,17 +2,24 @@
 
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
 
-<!---[![HackerRank: Trevor Busk](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/buskt/)](https://www.hackerrank.com/profile/buskt/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/tbusk/)](https://leetcode.com/tbusk/)
--->
-
-**About Me**
+#### About Me
 
 Hi, I'm Trevor, a full-stack software engineer who thrives on taking complex business problems and transforming them into elegant, production-ready applications. I don't just write code; I build, own, and scale systems that deliver tangible business value, grounded in a deep understanding of the operational needs behind the software.
 
 Beyond my professional work, I am a passionate advocate for open-source software. I believe in the power of community-driven development to create robust, accessible technology, and I am an active contributor to several projects. My goal is to build software that is not only functional and efficient but also a pleasure to use.
 
 Ultimately, my goal is to build software that makes a positive impact. I'm eager to connect with other passionate developers, entrepreneurs, and creators to share ideas and explore collaborations. Whether it's contributing to an ambitious open-source project, joining a mission-driven company, or simply networking with fellow innovators, I'm always ready for the next challenge.
+
+## Featured Projects
+
+### [Vala Language Plugin for JetBrains IDEs](https://github.com/Tbusk/vala-jetbrains-plugin)
+Authored and published an open-source full-featured language plugin for the Vala programming language, attracting over 2,500 downloads within 3 months of its launch on the JetBrains Marketplace.
+- **Tech Stack:** Java, Vala, JetBrains Grammar Kit, LSP4IJ
+
+### [Customer Support Chatbot](https://github.com/Tbusk/Customer-Support-Chatbot)
+Developed an open-source portable chatbot widget that integrates into any website to provide users with instant, accurate
+answers sourced directly from a pre-defined company knowledge base.
+- **Tech Stack:** TypeScript, React, Vite, TailwindCSS, Java, Spring Boot, Spring AI OpenAI, Gradle, OpenAI/ChatGPT
 
 ## My Tech Stack
 
