@@ -4,16 +4,12 @@
 
 #### About Me
 
-Hi, I'm Trevor, a full-stack software engineer who thrives on transforming complex business problems into elegant, production-ready applications. I don't just write code; I build, own, and scale systems that deliver tangible business value, grounded in a deep understanding of the operational needs that drive the technology.
-
-Beyond my professional work, I am a passionate advocate for open-source software and an active contributor to several projects. I believe in the power of community-driven development to create robust, accessible technology that is not only functional but also a pleasure to use.
-
-I'm always seeking the next challenge and am eager to connect with other passionate developers and creators. Whether it's contributing to an ambitious open-source project or joining a mission-driven company, I'm ready to collaborate on building software that makes a positive impact.
+Hi, I'm Trevor. I'm a software engineer who just really enjoys building things. I spend my time working across the stack, from Java backends to React frontends, and I'm a big believer in open-source. I like digging into tough challenges and creating tools that are genuinely useful, whether it's for other developers or for end-users.
 
 ## Featured Projects
 
 ### [Vala Language Plugin for JetBrains IDEs](https://github.com/Tbusk/vala-jetbrains-plugin)
-Authored and published an open-source full-featured language plugin for the Vala programming language, attracting over 2,500 downloads within 3 months of its launch on the JetBrains Marketplace.
+Authored and published an open-source full-featured language plugin for the Vala programming language, attracting ~3,000 downloads within 3 months of its launch on the JetBrains Marketplace.
 - **Tech Stack:** Java, Vala, JetBrains Grammar Kit, LSP4IJ
 
 ### [Customer Support Chatbot](https://github.com/Tbusk/Customer-Support-Chatbot)
