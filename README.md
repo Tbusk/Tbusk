@@ -12,11 +12,6 @@ Hi, I'm Trevor. I'm a software engineer who just really enjoys building things. 
 Authored and published an open-source full-featured language plugin for the Vala programming language, attracting over 4,000 downloads within a few months of its launch on the JetBrains Marketplace.
 - **Tech Stack:** Java, Vala, JetBrains Grammar Kit, LSP4IJ, JUnit
 
-### [Customer Support Chatbot](https://github.com/Tbusk/Customer-Support-Chatbot)
-Developed an open-source portable chatbot widget that integrates into any website to provide users with instant, accurate
-answers sourced directly from a pre-defined company knowledge base.
-- **Tech Stack:** TypeScript, React, Vite, TailwindCSS, Java, Spring Boot, Spring AI OpenAI, Gradle, OpenAI/ChatGPT
-
 ## My Tech Stack
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tbusk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
