@@ -1,10 +1,10 @@
-# Hi, I'm Trevor Busk
-
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
-
-#### About Me
-
-Hey, I'm Trevor. I'm a software developer that enjoys working on open-source projects in my free time. My main expertise lies in enterprise web development, although I have worked on various projects with ML, AI, and desktop applications mainly on linux.
+# About Me
+> #### Summary
+> 
+> Hey, I'm Trevor. I'm a software developer that enjoys working on open-source projects in my free time. My main expertise lies in enterprise web development, although I have worked on various projects with ML, AI, and desktop applications mainly on linux.
+> 
+> #### Connect with Me
+> [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/trevor-busk/)](https://www.linkedin.com/in/trevor-busk/)
 
 ## Featured Projects
 
