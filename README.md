@@ -4,7 +4,7 @@
 
 #### About Me
 
-Hi, I'm Trevor. I'm a software engineer who just really enjoys building things. I spend my time working across the stack, from Java backends to React frontends, and I'm a big believer in open-source. I like digging into tough challenges and creating tools that are genuinely useful, whether it's for other developers or for end-users.
+Hey, I'm Trevor. I'm a software developer that enjoys working on open-source projects in my free time. My main expertise lies in enterprise web development, although I have worked on various projects with ML, AI, and desktop applications on linux.
 
 ## Featured Projects
 
