@@ -10,7 +10,7 @@
 > [![Version](https://img.shields.io/jetbrains/plugin/v/27464-vala-language.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/27464-vala-language)
 > [![Downloads](https://img.shields.io/jetbrains/plugin/d/27464-vala-language.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/27464-vala-language)
 >
-> Authored and published an open-source full-featured language plugin for the Vala programming language. It is currently in active development in an alpha state.
+> Authored and published an open-source language plugin for the Vala programming language. 
 >
 > #### Tech Stack
 > Java, Vala, JetBrains Grammar Kit, LSP4IJ, JUnit, Lex, BNF
