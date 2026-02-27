@@ -5,7 +5,7 @@
 
 ## Featured Projects
 
-### [Vala Language Plugin for JetBrains IDEs](https://github.com/Tbusk/vala-jetbrains-plugin) 
+### [Vala Language Plugin for JetBrains IDEs](https://github.com/vala-lang/vala-jetbrains) 
 
 > [![Version](https://img.shields.io/jetbrains/plugin/v/27464-vala-language.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/27464-vala-language)
 > [![Downloads](https://img.shields.io/jetbrains/plugin/d/27464-vala-language.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/27464-vala-language)
