@@ -3,6 +3,8 @@
 > 
 > Hey, I'm Trevor. I'm a software developer that enjoys working on open-source projects in my free time. My main expertise lies in enterprise web development and automation, although I have worked on various projects with ML, AI, and desktop applications mainly on linux.
 
+<figure><embed src="https://wakatime.com/share/@Tbusk/ba458422-74c8-4cc8-b160-562ca17fbf69.svg"></embed></figure>
+
 ## Featured Projects
 
 ### [Vala Language Plugin for JetBrains IDEs](https://github.com/vala-lang/vala-jetbrains) 
