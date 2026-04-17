@@ -8,6 +8,8 @@
 
 ## Language Usage
 
-> All time by percentage, updated daily, powered by wakatime
+[![wakatime](https://wakatime.com/badge/user/5473ace5-aa1c-4375-a29e-1d73e157d37b.svg)](https://wakatime.com/@5473ace5-aa1c-4375-a29e-1d73e157d37b)
+
+> All time by percentage
 
 <img alt="programming language usage all time chart" width="relative" height="500px" src="https://wakatime.com/share/@Tbusk/3731341e-d4cd-41ce-8ac1-7a0dfdabd2ee.svg">
