@@ -1,15 +1,13 @@
 # About Me
 
-> #### Summary
+> <h2>Summary</h2>
 > 
-> Hey, I'm Trevor. I'm a software developer that enjoys working on open-source projects in my free time.
+> I'm a software developer that enjoys working on open-source projects in my free time.
+
+<h2>What I Use</h2>
+
+> Development Activity since April 3, 2026:
 >
-> My main expertise lies in enterprise web development and automation, although I have worked on various projects with ML, AI, and desktop applications mainly on linux.
+> [![wakatime](https://wakatime.com/badge/user/5473ace5-aa1c-4375-a29e-1d73e157d37b.svg)](https://wakatime.com/@5473ace5-aa1c-4375-a29e-1d73e157d37b)
 
-## Language Usage
-
-[![wakatime](https://wakatime.com/badge/user/5473ace5-aa1c-4375-a29e-1d73e157d37b.svg)](https://wakatime.com/@5473ace5-aa1c-4375-a29e-1d73e157d37b)
-
-> All time by percentage
-
-<img alt="programming language usage all time chart" width="relative" height="500px" src="https://wakatime.com/share/@Tbusk/3731341e-d4cd-41ce-8ac1-7a0dfdabd2ee.svg">
+<img alt="programming language usage all time chart" width="relative" height="500px" src="https://wakatime.com/share/@Tbusk/e75db650-b32c-4f39-a803-3e7cd0d1a815.svg">
