@@ -1,10 +1,6 @@
-# About Me
 
-> <h2>Summary</h2>
-> 
-> I'm a software developer that enjoys working on open-source projects in my free time.
 
-<h2>What I Use</h2>
+<h2>Activity</h2>
 
 > Development Activity since April 3, 2026:
 >
